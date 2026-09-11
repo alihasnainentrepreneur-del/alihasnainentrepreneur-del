@@ -141,15 +141,6 @@ Flutter • Laravel
 
 # 📫 Connect With Me
 
-LinkedIn:
-YOUR_LINKEDIN
-
-Portfolio:
-YOUR_WEBSITE
-
-Email:
-YOUR_EMAIL
-
 
 ---
 
